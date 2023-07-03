@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469052308450",
+    "project_id": "movieplus-11ad9",
+    "storage_bucket": "movieplus-11ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469052308450:android:86220bef6c5cb18b3817bb",
+        "android_client_info": {
+          "package_name": "com.example.movieplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469052308450-gcso78ekf4sq8539c7o7ina76vpk36gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASVEEI8xDfM0YmUUbvOiTsTbVykRBwwy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469052308450-gcso78ekf4sq8539c7o7ina76vpk36gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
